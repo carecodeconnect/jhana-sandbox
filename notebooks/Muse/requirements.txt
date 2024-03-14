@@ -5,4 +5,5 @@ pynput
 numpy
 pydub
 boto3
+ffmpeg
 pylsl
