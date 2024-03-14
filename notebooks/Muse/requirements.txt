@@ -1,0 +1,6 @@
+pyaudio
+pynput
+numpy
+pydub
+boto3
+pylsl
